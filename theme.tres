@@ -1,0 +1,6 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://cyeglwjdo4s66"]
+
+[ext_resource type="FontFile" uid="uid://caonygrdbf4ds" path="res://Helvetica-Bold.ttf" id="1_fugqe"]
+
+[resource]
+default_font = ExtResource("1_fugqe")
