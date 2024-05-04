@@ -39,6 +39,6 @@ func _physics_process(delta):
 	
 func delete():
 	var BugGrab = bug_grab_scene.instantiate()
-	BugGrab.global_position = global_position
 	get_tree().current_scene.add_child(BugGrab)
+	BugGrab.global_position = global_position
 	queue_free()

@@ -70,7 +70,7 @@ transform = Transform3D(3.387, 0, 0, 0, 3.387, 0, 0, 0, 3.387, 0, 0.0920936, -5.
 [node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
 transform = Transform3D(0.918428, 0.279203, -0.280243, 0, 0.708419, 0.705792, 0.395589, -0.648219, 0.650632, 0, 146.559, 0)
 light_color = Color(1, 0.945098, 0.909804, 1)
-light_energy = 0.002
+light_energy = 0.003
 light_angular_distance = 0.2
 shadow_enabled = true
 
